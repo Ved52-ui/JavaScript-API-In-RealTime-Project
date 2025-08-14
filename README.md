@@ -10,7 +10,7 @@ This project demonstrates **how to fetch and display real-time API data using Ja
 
 It is a part of the [Rishabh Roadlines](https://www.rishabhroadlines.in/) live freight tracking website, where users can enter their consignment number and see the delivery progress **instantly**.
 
----------------------
+--------------------
 ## 🎯 Features
 
 - ✅ Fetch API using `POST` method with custom data
